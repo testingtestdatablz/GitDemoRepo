@@ -1,5 +1,5 @@
 #!/bin/bash -x
-isFullTimePresent=1;
+isfullTimePresent=1;
 isPartTimePresent=2;
 randomCheck=$((RANDOM%3));
 
